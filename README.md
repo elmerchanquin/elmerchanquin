@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with [uatem](https://uatem.com)
 
-- 👨‍💻 All of my projects are available at [https://em.gt](https://em.gt)
+- 👨‍💻 All of my projects are available at [https://em.gt/projects/](https://em.gt/projects/)
 
-- 📝 I regularly write articles on [https://em.gt/news/](https://em.gt/news/)
+- 📝 I regularly write articles on [https://em.gt](https://em.gt/
 
 - 💬 Ask me about **react and javascript**
 
