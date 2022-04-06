@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://em.gt/projects/](https://em.gt/projects/)
 
-- 📝 I regularly write articles on [https://em.gt](https://em.gt/
+- 📝 I regularly write articles on [https://em.gt](https://em.gt/)
 
 - 💬 Ask me about **react and javascript**
 
