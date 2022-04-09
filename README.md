@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **elmer@em.gt**
 
-- 📄 Know about my experiences [https://em.gt/work](https://em.gt/work)
-
 - ⚡ Fun fact **I love coffee**
 
 <h3 align="left">Connect with me:</h3>
