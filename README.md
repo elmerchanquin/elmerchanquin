@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Elmer</h1>
 <h3 align="center">A passionate frontend developer from Guatemala</h3>
 
-- 🔭 I’m currently working on [medint](https://clinica.gt)
+- 🔭 I’m currently working on [Medint](https://clinica.gt)
 
 - 🌱 I’m currently learning **Backend with node.js**
 
-- 👯 I’m looking to collaborate on **golem network**
+- 👯 I’m looking to collaborate on **Golem Network**
 
-- 🤝 I’m looking for help with [uatem](https://uatem.com)
+- 🤝 I’m looking for help with [Uatem](https://uatem.com)
 
 - 👨‍💻 All of my projects are available at [https://em.gt/projects/](https://em.gt/projects/)
 
 - 📝 I regularly write articles on [https://em.gt](https://em.gt/)
 
-- 💬 Ask me about **react and javascript**
+- 💬 Ask me about **Business thecnology implementation**
 
 - 📫 How to reach me **elmer@em.gt**
 
-- ⚡ Fun fact **I love coffee**
+- ⚡ Fun fact **I love guatemalan coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
