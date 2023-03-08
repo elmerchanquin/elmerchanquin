@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elmer</h1>
-<h3 align="center">A passionate javascript fullstack developer from Guatemala</h3>
+<h3 align="center">Passionate about efficient processes and technology.</h3>
 
 - 🔭 I’m currently working at [Medint](https://medint.gt)
 
