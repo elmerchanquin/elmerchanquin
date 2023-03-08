@@ -3,28 +3,22 @@
 
 - 🔭 I’m currently working at [Medint](https://medint.gt)
 
-- 🌱 I’m currently learning **Python**
-
 - 🤝 I’m looking for help with [Uatem](https://uatem.com)
 
 - 👨‍💻 All of my projects are available at [https://em.gt](https://em.gt)
 
 - 📝 I regularly write articles on [https://em.gt/posts/](https://em.gt/posts/)
 
-- 💬 Ask me about **Node.js and JavaScript**
+- 💬 Ask me about **Python and JavaScript**
 
 - 📫 How to reach me **elmer@em.gt**
 
 - 📄 Know about my experiences [https://em.gt/projects/](https://em.gt/projects/)
 
-- ⚡ Fun fact **I love coffee and wine**
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/elmerchanquin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="elmerchanquin" height="30" width="40" /></a>
-<a href="https://twitter.com/elmerchanquin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elmerchanquin" height="30" width="40" /></a>
+<p align="left"><a href="https://twitter.com/elmerchanquin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elmerchanquin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/elmerchanquin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elmerchanquin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/elmer chanquin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elmer chanquin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@elmerchanquin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elmer chanquin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
