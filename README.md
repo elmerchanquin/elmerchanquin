@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://em.gt](https://em.gt)
 
-- 📝 I regularly write articles on [https://em.gt/posts/](https://em.gt/posts/)
+- 📝 I regularly write articles on [https://elmerchanquin.com/](https://elmerchanquin.com/)
 
-- 💬 Ask me about **Python and JavaScript**
+- 💬 Ask me about **entrepreneurship, health and education**
 
-- 📫 How to reach me **elmer@em.gt**
+- 📫 How to reach me **hi@em.gt**
 
 - 📄 Know about my experiences [https://em.gt/projects/](https://em.gt/projects/)
 
